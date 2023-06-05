@@ -1,5 +1,5 @@
 # TowersofHanoi
-This program is a project Computer Science 2 (CS145) at Whatcom Community College, Spring 2023.
+This program is a Computer Science 2 (CS145) project at Whatcom Community College, Spring 2023.
 
 Towers of Hanoi was invented by Eduoard Lucas in the 1800's.
 A Hindu temple implemented this puzzle long ago to increase the mental discipline of young priests.
