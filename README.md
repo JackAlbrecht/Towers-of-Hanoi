@@ -10,8 +10,8 @@ This program solves this puzzle for up to 100 discs.
 
 Thank you for checking out my program, 
 
-Thank you for checking out my program,
 If you have questions please reach out at:
+
 Jackalbrecht5@gmail.com
 
 ---------------------------------------------------------------------------------------------------------------------------------
